@@ -1,2 +1,2 @@
 # mqttTakFlow
-node red flow to forward location information from mqtt pub sensor to Tak server
+Node-Red Flow to forward MQTT sensor location to ATAK via multicast or TAKServer. (used in conjunction with Ampledatas node-red-contrib-tak)
